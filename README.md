@@ -11,3 +11,6 @@ This project relies on standard Python libraries, and no additional dependencies
 ## How to Run
 Ensure you have Python installed. Navigate to the main.py and run the main program.
 
+## Additional Gui 
+The project integrating GUI using TkInter.
+![image](https://github.com/InbalTb/Object-Oriented-Programming-project/assets/132600292/5356c9e1-bf78-418a-af2e-f45c3a42f501)
