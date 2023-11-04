@@ -2,7 +2,7 @@
 
 The "Buy A Car" project is a Python implementation that models a store managing vehicles and customers. This README provides an overview of the project structure and instructions on how to run and use it.
 
-- **vehicles_supply.csv**: CSV file containing vehicle data.
+- **vehicles.csv**: CSV file containing vehicle data.
 - **customers.csv**: CSV file containing customer data.
 - **py**: Directory containing Python files for different classes and the main program.
   
