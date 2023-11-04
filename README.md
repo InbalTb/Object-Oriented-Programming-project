@@ -9,13 +9,5 @@ The "Buy A Car" project is a Python implementation that models a store managing 
 ## Dependencies
 This project relies on standard Python libraries, and no additional dependencies are required.
 ## How to Run
-Ensure you have Python installed. Navigate to the project root and run the main program.
-## Example
-For usage examples, refer to the examples provided in the main program and class files.
-
-## Exception Handling
-Exception handling is implemented through two classes:
-
-- **ExceptionVehicle**: Represents exceptions that can occur during program execution.
-- **ExceptionProcess**: Handles various data structures (TUPLE, DICTIONARY, LIST, STR, INT).
+Ensure you have Python installed. Navigate to the main.py and run the main program.
 
