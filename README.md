@@ -1,10 +1,10 @@
 ## Object-Oriented Programming Project
 
 The "Buy A Car" project is a Python implementation that models a store managing vehicles and customers. This README provides an overview of the project structure and instructions on how to run and use it.
-
+## Project Structure
 - **vehicles.csv**: CSV file containing vehicle data.
 - **customers.csv**: CSV file containing customer data.
-- **py**: Directory containing Python files for different classes and the main program.
+- **py**: Directory containing Python files for different classes, gui and the main program.
   
 ## Dependencies
 This project relies on standard Python libraries, and no additional dependencies are required.
